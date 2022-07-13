@@ -1,0 +1,12 @@
+D:\Projetos\my-first-api\API\Data\Data\bin\Debug\net5.0\Data.deps.json
+D:\Projetos\my-first-api\API\Data\Data\bin\Debug\net5.0\Data.dll
+D:\Projetos\my-first-api\API\Data\Data\bin\Debug\net5.0\ref\Data.dll
+D:\Projetos\my-first-api\API\Data\Data\bin\Debug\net5.0\Data.pdb
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.dll
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\ref\Data.dll
+D:\Projetos\my-first-api\API\Data\Data\obj\Debug\net5.0\Data.pdb
